@@ -1,15 +1,12 @@
 # HOLA MUNDO
-## HOLA MUNDO 2
 
-hola mundo pero esta *parte esta en negra*
+## NUXT 3
+https://nuxt.com/
 
-***HOLA***
+## TAILWIND
+https://tailwindcss.com/
 
-1. uno
-2. dos
-3. tres
+## UI NUXT
+https://ui.nuxt.com/
 
-- uno
-- dos
-- tres
-bla bla bla
+
